@@ -1,0 +1,290 @@
+@import url('https://fonts.googleapis.com/css?family=Poppins:400,500,600');
+
+
+ /*----------Default font styles-----------*/
+row, header, .container, .navbar-nav, .col, .navbars, footer, .footer p, span {
+	
+font-family: 'Poppins', sans-serif !important; font-size:12px !important;	
+	
+}
+
+ /*----------Search Customer View Basket A links -----------*/
+.gray, .right a {color: #30302d;}
+
+ /*----------Top Bar BG Color -----------*/
+
+.top-bar{background: #e00036; line-height: 0.8em;}
+
+ /*----------Top Bar A Links -----------*/
+
+.top-bar-rgt li a {color: #fff;}
+
+ /*----------HEADERB BG -----------*/
+.topheader {min-height: 95px; background:url(https://raw.githubusercontent.com/qbodirect/qualitybrandsoutlet/main/images/headerbg.gif) 0 0 repeat-x #fff; background:#fff;}
+
+ /*----------NAV BG BG -----------*/
+
+.menu{background: #dbd9e3; }
+.menu #myNavbar li a{color: #30302d; padding:11px 20px 13px; font-size: 12px;}
+.menu #myNavbar li a:hover {background-color: #5b556f; color: white;}
+#sale {background: #dbd9e3; color: #e20821 !important;}
+#sale a {color: #e20821 !important;}
+#sale a:hover {color: #fff !important; background: #e2162e !important;}
+#newarvl{background: #5b556f; margin-left:1px; color:#fff}
+#newarvl a { color:#fff !important}
+
+
+ /*----------3 PROMOS -----------*/
+  /*-FULL WIDTH BG COLOUR-*/
+ .btm-menu {background-color: #5b556f;  }
+  /*-3 PROMO BG-*/
+ .btm div div div {background-color: #e0e0e0; padding:15px; width: 100%; display:inline-block; line-height:12px;}
+  /*-3 PROMO FONT-*/
+ .btm-menu span {padding-right: 10px; color: #000; line-height: 22px;}
+  /*-3 PROMO RIGHT FONT-*/
+ .btm-menu i {display:block; float:right; padding-left: 8px; border-left:1px solid #727272; color: #000; font-size:11px; font-style:normal; font-weight:normal;}
+ 
+ 
+ /*----------CLICK TO SHOP -----------*/
+ .what {padding:20px 0 15px; font-size:11px; color: #000;}
+.what a {display:inline-block; background-color:#e3e3e3; margin-left:20px; padding:5px 18px; color: #000; font-size: 11px;}
+
+/*----------MID BG -----------*/
+ .main-cntnt{background: #f9f9f9; padding-top:7px;}
+ .cntnt{background: #FFF; padding-top:10px; padding-bottom:10px;}
+ 
+ /*----------RIGHT CONTENT-----------*/
+ .btn1, .btn2 {display:block; text-align: center;   font-size:14px; padding: 9px 0px; margin: 10px 0px;}
+.btn1 {background:url("https://raw.githubusercontent.com/qbodirect/qualitybrandsoutlet/main/images/heart.png") center right no-repeat #5b556f; padding-right:34px; color:#fff}
+.btn2 {color:#2c2c2c;  background:#dbd9e3;}
+.btn1:hover, .btn2:hover { }
+ .collect span {font-size: 16px !important; font-weight:600; color: #5b556f;}
+.prod-btm{
+	color: #fff;
+	background-size: 25px auto;
+	background-color: #726d84;
+	background-image: url(https://raw.githubusercontent.com/qbodirect/qualitybrandsoutlet/main/images/medal.png);
+	background-repeat: no-repeat;
+	background-position: 98% 15px;
+	margin-top: 0;
+	margin-right: -15px;
+	margin-bottom: 0;
+	margin-left: -15px;
+	padding-top: 10px;
+	padding-right: 10px;
+	padding-bottom: 14px;
+	padding-left: 10px;
+}
+ .ratings a {color:#000; padding-left: 5px;}
+	 
+ 
+  /*----------INSPIRED BG-----------*/ 
+ .hero_sctr {background-color: #dbd9e3; padding:15px 0 25px;}
+ .inspired a {color:#312c41; padding:5px 30px 10px; background-color:#fff; border-radius:2px; line-height:26px;}
+ 
+ 
+    /*----------FOOTER-----------*/ 
+	
+footer {background-color: #5b556f; color:#fff; padding-top:25px;}
+footer a, footer a:hover {color:#fff; font-size: 12px;}
+footer h5 {font-size:18px;}
+footer li {line-height:25px; font-size:12px;}
+.footer-bottom {background-color:#5b556f; padding:20px;}
+
+
+.bigbrands {color: white;  text-align: center; font-size: 14px;}
+.bigbrandstwo {color: white;   text-align: center; font-size: 14px;}
+	
+	 /*----------STYLE ENDS-----------*/ 
+	
+	.logobg { }
+	.logo img {max-height: 130px;
+
+border-right: solid 45px #e00036;
+
+border-left: solid 45px #e00036;
+
+margin-left: 25px;
+
+width: auto;}
+
+.top-bar-rgt{display: inline-flex;list-style: none;float: right;}
+.top-bar-rgt li {padding: 10px 10px 0px;} 
+
+.right ul {padding:0;}
+.right ul li {display: inline; margin-top: 55px; padding:0 10px; float:left; line-height:14px; font-size:11px;}
+.right ul li.cust {border-left:1px solid #727272; border-right:1px solid #727272; margin:inherit 10px 0;}
+.right ul li.basket {width:87px;}
+.right strong {font-size:14px;}
+.right img {margin-right: 3px;}
+.btm-menu img{float:left; margin-right:10px;}
+.menu nav.navbar.navbar {margin: 0;}
+.btm { padding: 10px 0; font-weight: 600; line-height: 2.6em;}
+/*.banner {background:url("https://raw.githubusercontent.com/qbodirect/qualitybrandsoutlet/main/images/banner.jpg") center no-repeat #727272; background-size:cover; min-height:212px; margin-top:6px;}*/
+.inner{border: 1px solid #c7c7c7;}
+.desc-rgt .inner h5{background: #727272; padding: 12px; margin: 0;color: #fff;}
+.wtsnw {margin-bottom: 15px; margin-top:35px; text-align:center;}
+ 
+.hero_sctr img {border: 3px solid #fff;}
+.inspired {border-top:26px solid #fff; font-size:16px; margin-top:25px; padding-top:20px; color:#fff; line-height:35px;}
+.inspired .container  div {padding:0 10%; font-size: 18px; color: #312c41; font-weight: 600; letter-spacing: 2px; text-align: center; }
+footer .signup {border-left: 1px solid #7c7e81; padding-left:5%}
+.footer-bottom  img {margin: 0 auto;}
+.ebay {display:none;}
+.ftr-logo {margin: 40px;}
+.copyright {color: white;padding-bottom: 20px;}
+.serv ul li{display: inline-flex; list-style: none; padding: 15px 35px;}
+.serv ul li p {color: white; padding-left:10px;}
+.rgt{border: 1px solid #e5e5e5; min-height: 500px; margin-bottom: 30px;}
+.lft{min-height: 500px; margin-bottom: 30px;}
+.title {color:#53565a; font-size:24px;}
+.title img {margin-top:10px;}
+.ratings {margin-bottom: 12px; padding:9px 10px 8px 0; font-size:11px; color:#53565a;}
+.ratings span {margin-right: 10px; }
+.ratings i {display:inline; background:url("https://raw.githubusercontent.com/qbodirect/qualitybrandsoutlet/main/images/star.gif") center no-repeat; padding: 7px;}
+.price{margin-bottom: 5px;}
+.price h3 {margin-top: 15px; margin-bottom: 0; font-size: 16px;}
+.price p {font-size:11px;}
+.price span{color:#a20202;}
+
+.ourprice {color: #30302d; font-weight: bold; font-size: 18px;}
+.ourprice span {color: #e20821; font-weight: bold; font-size: 18px !important;}
+
+
+
+.collect{margin: 10px 0px; min-height: 60px}
+.collect #half{width: 70%; float: left;}
+.pay {border-top: 1px solid #e5e5e5; margin-left: -15px; margin-right: -15px; padding: 0 15px 15px;}
+.pay #txt { width: 60%; float: left; padding-left: 15px;}
+.pay #txt h4{margin: 10px 0 0;}
+.pay img {margin-top: 15px;   float:right;
+    clear:right; margin-right: 15px;}
+.dlvry {border-top: 1px solid #e5e5e5; margin-left: -15px; margin-right: -15px; padding: 0 15px 15px;}
+.dlvry .l {width: 70%; float: left; padding-left: 15px;}
+.dlvry .l h4{margin: 10px 0 0;}
+.dlvry .r {padding: 8px;}
+.shp {border: 1px solid #e5e5e5;padding: 10px 10px 10px 50px; background:url("https://raw.githubusercontent.com/qbodirect/qualitybrandsoutlet/main/images/plug.gif") 10px center no-repeat;}
+main {min-width: 310px; margin:auto; background: #fff; position:relative;}
+section { display: none; padding: 20px 0 0; color:#383838; font-size:12px; line-height:20px;}
+main input { display: none;}
+main label { background-color:#f0f2f4; border-right: 1px solid #c7c7c7; display: inline-block; margin: 0 0 -0px; padding: 8px 20px 11px; font-weight: normal; font-size: 16px; text-align: center; color:#424242; z-index:98; width:20%; position:relative;}
+main label:before { font-weight: normal; margin-right: 0px;}
+main label[for*='1']:before { content: ''; }
+main label[for*='2']:before { content: ''; }
+main label[for*='3']:before { content: ''; }
+main label[for*='4']:before { content: ''; }
+main label[for*='5']:before { content: ''; }
+main label.nbr {border-right:0;}
+main label.last {position:absolute; width: 100%; float: left; left: 0; z-index: 0; padding:21px;}
+main label.last:hover {cursor:auto}
+main label:hover { cursor: pointer;}
+main input:checked + label {background-color:#5b556f; font-weight:600; color:#fff;}
+
+#tab1:checked ~ #content1,
+#tab2:checked ~ #content2,
+#tab3:checked ~ #content3,
+#tab4:checked ~ #content4,
+#tab5:checked ~ #content5 { display: block; padding: 15px; min-height:290px;}
+
+
+.slider{ background:white; text-align:center; position: relative; /*Instead of height we will use padding*/
+	padding-top: 470px; padding-bottom:90px; /*That helps bring the labels down*/
+}
+	/*Last thing remaining is to add transitions*/
+.slider .large{ position: absolute; left: 0; top: 0; transition: all 0.5s; width:98%; max-height:500px; overflow-y:hidden;}
+.slider .large img{ height:440px; width: auto;}
+.slider input[name='slide_switch'] { display: none;}
+.slider label { margin: 0 0 0 10px; float: left; cursor: pointer;	transition: all 0.5s; opacity: 0.6; /*default low opacity*/}
+.slider label img {display: block; max-width:85px margin-bottom: 15px;}
+.slider input[name='slide_switch']:checked+label {opacity: 1;}
+	/*clicking any thumbnail now should change its opacity(style) / Time to work on the main images*/
+.slider input[name='slide_switch'] ~ .large { opacity: 0;	transform: scale(1.1);}
+	/*that hides all main images at a 110% size. On click the images will be displayed at normal size to complete the effect */
+.slider input[name='slide_switch']:checked+label+.large { opacity: 1; transform: scale(1);}
+	/*Clicking on any thumbnail now should activate the image related to it*/
+.thumbnail {
+	padding:0; border:0; border-radius:0;
+}
+
+#thumb img {border: 1px solid #e5e5e5;margin: 0px 1px;padding: 5px;margin-bottom: 10px;}
+.prod-btm ul {display: inline-flex;margin: 0 auto;padding: 0;}
+.prod-btm ul li {list-style: none; padding: 5px 2px;}
+
+.prod-btm ul li { list-style-image:url("https://raw.githubusercontent.com/qbodirect/qualitybrandsoutlet/main/images/tick.png"); margin-left:25px; padding-left:0px;}
+.prod-btm h3 {margin: 0px 10px 0px 0; float:left; width:90%}
+.prod-desc {margin-top: 50px;}
+.prod {margin-top: 10px;}
+.prod-desc h4{font-weight: 600;}
+.desc-rgt .inner #spec {margin-top: 10px; padding:15px; min-height:302px;}
+
+/*media query for devices*/
+@media only screen and (max-width: 480px){
+	body{overflow-x: hidden;}
+	.top-bar{display: none;}
+	.navbar-toggle{background: #000;}
+	.navbar-toggle .icon-bar{background: #ffffff;}
+	.prod-btm ul{display: block;}
+	.btm{text-align: center;}
+	.btm div div div {padding:10px 10px; font-size:11px; text-align:left;}
+	.trust img {width:65px; margin-top:2px;}
+	.title img {width: 75px;}
+	.btm-menu i {font-size:10px;}
+	.prod-desc{margin-top: 0px;}
+	.main-cntnt, .cntnt {padding: 0;}
+	.prod-btm {margin-top: 10px;}
+	.desc-lft, .lft{width:100% !important;}
+	.desc-lft .nav-pills{margin: 0 auto;}
+	.nav-pills>li+li{margin-left: 0px !important;}
+	.nav-pills>li{float: none !important; text-align: center;}
+	.breadcrumbs {padding-left:10px}
+	.lft {min-height: 440px;}
+	.slider {padding-top: 300px; min-height: 320px; width:100%;}
+	.slider .large {left:0px; width:100%}
+	.slider .large .clk {width: 170px;}
+	.slider label {width:18%; padding:3px; display:inline-block;}
+	.slider label img {display: block; max-width:100%;}
+	.slider .large img {max-width:100%;}
+	.prod {padding:10px;}
+	main label.nbr, main label.first {padding:9px; line-height:16px;}
+	main label {font-size: 97%; padding:9px 5px; height:52px; line-height:36px; float:left;}
+	section {padding:15px 10px; clear:both; float:left; border-bottom:1px solid #ccc;}
+	.hero_sctr img {margin:5px 0}
+	.inspired {line-height: 24px; font-size:14px;}
+	.inspired .container div {padding:0;}
+	.inspired a {padding:1px 17px 3px; font-size:13px; margin-top:2%;}
+	.nav > li {float: left;}
+	.menu #myNavbar li a {border: 0; padding:2px 9px;}
+	#sale {clear:left; margin-left: 9px;}
+
+}
+@media only screen and (min-width: 360px) and (max-width: 480px){
+	.slider {padding-top: 400px; min-height: 420px; width:100%;}
+	main label.nbr, main label.first {line-height:35px !important;}
+	
+}
+
+@media only screen and (min-width: 667px) and (max-width: 1200px){
+	.price h3{margin-top: 85px;}
+	.pay img {float: right; margin-right:10px;}
+	.dlvry #r img { margin-top: 25px;}
+	.desc-lft{margin-bottom: 20px;}
+	.serv ul {padding: 0;}
+	.serv ul li {display: inherit; padding: 10px 0px; text-align: center; width: 20%;float: left;}
+	.collect, .vat, .dlvry, .pay{clear:both; }
+	.desc-lft, .lft{width:100% !important;}
+	.nav > li {float: left;}
+	.btm-menu i {width:100px;}
+	.menu #myNavbar li a {border: 0; padding:2px 10px; margin-bottom: 3px;}
+	.slider .large {width:95%; left:90px;}
+	.hero_sctr img {margin:10px auto;}
+	.prod-btm {margin-top: 10px;}
+	.btn1, .btn2 {width:48%; margin:0 1% 20px; float:left}
+}
+
+@media (min-width:768px) {
+	
+	main label {height:44px; }
+	main label.first {line-height:22px; float:left;}	
+	.slider label img {max-height: 53px; width: auto;}
+	 
+)
